@@ -33,6 +33,8 @@ avia-bookings/
 
 ├── final_work.sql # SQL-запросы
 
+├── avia.backup # Данные
+
 └── README.md # описание проекта
 
 
