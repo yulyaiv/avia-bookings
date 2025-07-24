@@ -27,7 +27,7 @@
 
 avia-bookings/
 
-├── database_description.pdf # описание структуры БД
+├── bookings.pdf # описание структуры БД
 
 ├── er_diagram.png # ER-диаграмма базы данных
 
