@@ -28,8 +28,11 @@
 avia-bookings/
 
 ├── database_description.pdf # описание структуры БД
+|
 ├── er_diagram.png # ER-диаграмма базы данных
-├── final_work.sql # SQL-запросы
+|
+├── final_work.sql # SQL-запрос
+|
 └── README.md # описание проекта
 
 
