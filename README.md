@@ -31,7 +31,7 @@ avia-bookings/
 
 ├── er_diagram.png # ER-диаграмма базы данных
 
-├── final_work.sql # SQL-запросы
+├── avia.sql # SQL-запросы
 
 ├── avia.backup # Данные
 
